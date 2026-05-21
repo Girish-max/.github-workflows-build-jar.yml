@@ -1,6 +1,7 @@
 package com.example;
 
 public class App {
+<<<<<<< HEAD
 
     public static void main(String[] args) {
 
@@ -8,4 +9,9 @@ public class App {
 
     }
 
+=======
+    public static void main(String[] args) {
+        System.out.println("Hello GitHub Workflow");
+    }
+>>>>>>> 445d8d531fa3c5b1c645dcf0f2d29ae77fdfb581
 }
